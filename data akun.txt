@@ -1,0 +1,23 @@
+pasien
+username = adi
+password = adi12345
+
+pakar
+username = dokter budi
+password = budi12345
+
+admin
+username = admin
+password admin12345
+
+
+
+
+
+
+
+
+
+
+
+pw rar :PAKGJL23
